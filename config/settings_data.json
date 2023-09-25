@@ -101,7 +101,7 @@
             "type": "menu",
             "settings": {
               "show_footer_title": false,
-              "menu": "footer",
+              "menu": "main-menu",
               "container_width": 50
             }
           }
