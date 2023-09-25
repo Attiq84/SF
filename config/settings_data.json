@@ -96,10 +96,19 @@
               "text": "",
               "container_width": 50
             }
+          },
+          "77df8359-705d-479e-8519-f02ffe6788d6": {
+            "type": "menu",
+            "settings": {
+              "show_footer_title": false,
+              "menu": "footer",
+              "container_width": 50
+            }
           }
         },
         "block_order": [
-          "3dca18b3-b7e4-4d3e-b081-ad258aa8ca33"
+          "3dca18b3-b7e4-4d3e-b081-ad258aa8ca33",
+          "77df8359-705d-479e-8519-f02ffe6788d6"
         ],
         "settings": {
           "show_locale_selector": false,
