@@ -1,19 +1,15 @@
 {
   "sections": {
-    "featured-collection": {
-      "type": "featured-collection",
+    "561ef141-2cbe-417c-9541-3c2586581ee7": {
+      "type": "featured-video",
       "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": true,
-        "view_all": true,
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "divider": false
       }
     }
   },
   "order": [
-    "featured-collection"
+    "561ef141-2cbe-417c-9541-3c2586581ee7"
   ]
 }
