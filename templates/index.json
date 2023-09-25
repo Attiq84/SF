@@ -1,15 +1,55 @@
 {
   "sections": {
-    "561ef141-2cbe-417c-9541-3c2586581ee7": {
-      "type": "featured-video",
+    "75811ed4-b3c4-4530-af1a-451ab2c075eb": {
+      "type": "hero-video",
       "settings": {
-        "title": "",
+        "title": "Bring your\nbrand to life.",
+        "title_size": 80,
+        "subheading": "Seamless hero videos",
+        "link_text": "Optional button",
+        "link": "",
+        "color_accent": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "divider": false
+        "overlay_opacity": 0,
+        "section_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "419364e5-c29d-43e8-b102-6e6c0b0471f8": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21110177562942__419364e5-c29d-43e8-b102-6e6c0b0471f8-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "template--21110177562942__419364e5-c29d-43e8-b102-6e6c0b0471f8-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "template--21110177562942__419364e5-c29d-43e8-b102-6e6c0b0471f8-collection-1",
+        "template--21110177562942__419364e5-c29d-43e8-b102-6e6c0b0471f8-collection-2"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "divider": false,
+        "per_row": 3,
+        "enable_gutter": true
       }
     }
   },
   "order": [
-    "561ef141-2cbe-417c-9541-3c2586581ee7"
+    "75811ed4-b3c4-4530-af1a-451ab2c075eb",
+    "419364e5-c29d-43e8-b102-6e6c0b0471f8"
   ]
 }
