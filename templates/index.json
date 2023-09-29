@@ -16,16 +16,16 @@
         "template--21110177562942__419364e5-c29d-43e8-b102-6e6c0b0471f8-collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "title": "",
+            "collection": "stealth",
+            "title": "STEALTH CATA",
             "focal_point": "center center"
           }
         },
         "template--21110177562942__419364e5-c29d-43e8-b102-6e6c0b0471f8-collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
-            "title": "",
+            "collection": "flre-cata",
+            "title": "FLRA CATA",
             "focal_point": "center center"
           }
         }
