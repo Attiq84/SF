@@ -40,10 +40,25 @@
         "per_row": 2,
         "enable_gutter": true
       }
+    },
+    "7994a525-8f6b-4566-8412-3a826a315077": {
+      "type": "Countdown-banner",
+      "settings": {
+        "full_width": false,
+        "section_height_desktop": 500,
+        "section_height_mobile": 300,
+        "desktop_image": "shopify:\/\/shop_images\/Sale_banner.jpg",
+        "blur_amount": 0,
+        "overlay_color": "#000000",
+        "border_radius": 0,
+        "background_color": "#ffffff",
+        "section_padding": 10
+      }
     }
   },
   "order": [
     "e7ab985b-c9bc-48a2-9ba1-e369677045ab",
-    "419364e5-c29d-43e8-b102-6e6c0b0471f8"
+    "419364e5-c29d-43e8-b102-6e6c0b0471f8",
+    "7994a525-8f6b-4566-8412-3a826a315077"
   ]
 }
