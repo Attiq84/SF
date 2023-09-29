@@ -17,7 +17,7 @@
           "type": "collection",
           "settings": {
             "collection": "stealth",
-            "title": "STEALTH CATA",
+            "title": "STEALTH",
             "focal_point": "center center"
           }
         },
@@ -25,7 +25,7 @@
           "type": "collection",
           "settings": {
             "collection": "flre-cata",
-            "title": "FLRA CATA",
+            "title": "FIRE",
             "focal_point": "center center"
           }
         }
