@@ -35,7 +35,7 @@
     "type_base_size": 18,
     "type_base_line_height": 1.4,
     "type_body_align_text": true,
-    "type_navigation_style": "body",
+    "type_navigation_style": "heading",
     "type_navigation_size": 14,
     "type_navigation_capitalize": true,
     "type_product_style": "body",
@@ -98,13 +98,13 @@
           "header_style": "sticky",
           "sticky_index": true,
           "sticky_collection": false,
-          "announcement_compact": true,
+          "announcement_compact": false,
           "announcement_above_header": false,
           "toolbar_menu": "",
-          "toolbar_social": true,
-          "show_locale_selector": true,
-          "show_currency_selector": true,
-          "show_currency_flags": true
+          "toolbar_social": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "show_currency_flags": false
         }
       },
       "footer": {
