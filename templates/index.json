@@ -50,7 +50,7 @@
             "header": "Your header text",
             "header_color": "#ffffff",
             "header_font_size": 36,
-            "paragraph": "Your paragraph text",
+            "paragraph": "",
             "paragraph_color": "#ffffff",
             "paragraph_font_size": 16
           }
