@@ -70,6 +70,19 @@
     "sections": {
       "header": {
         "type": "header",
+        "blocks": {
+          "9096d1a1-80d2-4a4f-b09b-628377956b01": {
+            "type": "logo",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/Asset_5.png",
+              "desktop_logo_width": 200,
+              "mobile_logo_width": 140
+            }
+          }
+        },
+        "block_order": [
+          "9096d1a1-80d2-4a4f-b09b-628377956b01"
+        ],
         "settings": {
           "main_menu_link_list": "main-menu",
           "mega_menu_images": true,
