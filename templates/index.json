@@ -81,6 +81,7 @@
         "0d78e6f5-9f68-4319-8e53-88a1ebafbe2b",
         "905d291a-935e-4bbd-8b02-b4cbd53a1716"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "section_height_desktop": 500,
