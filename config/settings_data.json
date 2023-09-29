@@ -109,8 +109,8 @@
             "type": "newsletter",
             "settings": {
               "show_footer_title": true,
-              "title": "JOIN THE CONVERSATION",
-              "text": "<p>Subscribe and save 10% off on your First order.<\/p>",
+              "title": "Subscribe and save 10% off.",
+              "text": "",
               "container_width": 50
             }
           },
