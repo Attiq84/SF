@@ -57,7 +57,7 @@
           "type": "tab",
           "settings": {
             "title": "Shipping Policy",
-            "content": "<p>Use collapsible tabs for more detailed information that will help customers make a purchasing decision.<\/p><p>Ex: Shipping and return policies, size guides, and other common questions.<\/p>",
+            "content": "<p>Delivery Time Period: <strong>Upto 4 - 5 Working Days<\/strong><\/p><ul><li>Free Shipping on all orders over the value of <strong>Rs.2,500<\/strong>.<\/li><li>We charge <strong>Rs.250 <\/strong>on all orders under the value of Rs.2,500.<\/li><li>Orders received will be dispatched the next day.<\/li><li>Orders received on Sundays and on Pakistan's National Holidays will be processed and shipped on the next working day.<\/li><li>Delivery time is between <strong>4 to 5 working days<\/strong> (No delivery on Sundays). However delivery can take excessive time during busy shopping season, sales event, strikes or natural disasters.<br\/><\/li><li>We will deliver to the home or office address provided by the customer while placing order.<\/li><li>Order cancellation takes place after three delivery attempts. A confirmation call is made to the customer before order cancelation.<\/li><\/ul>",
             "page": ""
           }
         }
