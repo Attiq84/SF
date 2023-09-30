@@ -74,6 +74,9 @@
   }
 {% endschema %}
 <style>
+  .mob-v{
+      display:none;
+    }
   .video-height-ar{
     
    /* height: 100vh; */
@@ -147,7 +150,10 @@ margin-top:30px;
     transform: scale(1);
   }
 }
-  @media screen and (max-width:767px){
+  @media screen and (max-width:768px){
+    .mob-v{
+      display:block;
+    }
     .video-height-ar{
     max-height:500px;
 min-height:470px;
