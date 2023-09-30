@@ -49,7 +49,7 @@
           "type": "tab",
           "settings": {
             "title": "Details",
-            "content": "",
+            "content": "<p>{{ product.metafields.custom.details | metafield_tag }}<\/p>",
             "page": ""
           }
         },
