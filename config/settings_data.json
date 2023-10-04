@@ -70,6 +70,7 @@
     "social_linkedin_link": "",
     "social_youtube_link": "",
     "favicon": "shopify:\/\/shop_images\/Asset_2.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Asset_5.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "small",
     "checkout_body_background_color": "#ffffff",
