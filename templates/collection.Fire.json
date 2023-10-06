@@ -2,6 +2,7 @@
   "sections": {
     "collection-header": {
       "type": "collection-header",
+      "disabled": true,
       "settings": {
         "enable": false,
         "collection_image_enable": false,
@@ -31,6 +32,7 @@
         "subcollections",
         "product_grid"
       ],
+      "disabled": true,
       "settings": {
         "enable_sidebar": false,
         "collapsed": false,
@@ -38,10 +40,27 @@
         "enable_color_swatches": false,
         "enable_sort": true
       }
+    },
+    "8c806db4-29eb-4da9-acb8-97936ad41024": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/FIre_Cata.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "FIRE",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
     "collection-header",
-    "main-collection"
+    "main-collection",
+    "8c806db4-29eb-4da9-acb8-97936ad41024"
   ]
 }
