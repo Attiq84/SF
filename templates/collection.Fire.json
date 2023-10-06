@@ -45,8 +45,8 @@
       "type": "text-and-image",
       "settings": {
         "image": "shopify:\/\/shop_images\/FIre_Cata.jpg",
-        "image_width": 700,
-        "subtitle": "",
+        "image_width": 520,
+        "subtitle": "NEW",
         "title": "FIRE",
         "text": "<p>JOIN THE CONVERSATION<\/p>",
         "button_label": "",
