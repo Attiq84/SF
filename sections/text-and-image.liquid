@@ -79,6 +79,7 @@
             </a>
           </div>
         {%- endif -%}
+         {%- render 'newsletter-form', section_id: section.id, snippet_context: 'section' -%}
       </div>
 
       {%- if section.settings.layout == 'right' -%}
