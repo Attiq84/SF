@@ -48,11 +48,11 @@
         "image_width": 700,
         "subtitle": "",
         "title": "FIRE",
-        "text": "<p>GET READY <\/p>",
+        "text": "",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "center",
         "layout": "right",
         "divider": false
       }
