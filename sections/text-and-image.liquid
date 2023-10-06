@@ -64,7 +64,7 @@
 
       <div class="feature-row__item feature-row__text feature-row__text--{{ section.settings.layout }} text-{{ section.settings.align_text }}" data-aos>
         {%- if section.settings.title != blank -%}
-          <div class="h1 appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</div>
+          <div class="h1 appear-delay nw-w{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.title | escape }}</div>
         {%- endif -%}
         {%- if section.settings.subtitle != blank -%}
           <div class="subheading appear-delay{% cycle '','-1','-2','-3','-4' %}">{{ section.settings.subtitle }}</div>
