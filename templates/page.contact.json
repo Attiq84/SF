@@ -13,8 +13,12 @@
         "text": "",
         "show_phone": true,
         "narrow_column": true,
-        "email": "Email:",
-        "ph_numb": "Phone Number:"
+        "cont": "Contact",
+        "email": "Email: stealthk4u@gmail.com",
+        "ph_numb": "Phone Number:",
+        "wht_ap": "Whatsapp Number:",
+        "timming": "Timings:",
+        "Shipping_a": "Shipping Address:"
       }
     }
   },
