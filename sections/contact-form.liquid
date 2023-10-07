@@ -58,6 +58,23 @@
       {%- endform -%}
     </div>
 
+<div class="">
+{%- if section.settings.email != blank -%}
+        <p class="section-heade_email">
+          {{ section.settings.email }}
+        </p>
+    {% endif %}
+    {%- if section.settings.ph_numb != blank -%}
+        <p class="section-heade_email">
+          {{ section.settings.ph_numb }}
+        </p>
+     {% endif %}
+
+
+  
+  </div>
+
+
 
     
   </div>
@@ -93,7 +110,20 @@
         "id": "narrow_column",
         "label": "Narrow column",
         "default": true
+      },
+      {
+        "type": "text",
+        "id": "email",
+        "label": "email",
+        "default": "Email"
+      },
+      {
+        "type": "text",
+        "id": "ph_numb",
+        "label": "Phone Number",
+        "default": "Phone Number"
       }
+      
     ],
     "presets": [{
       "name": "Contact form"
