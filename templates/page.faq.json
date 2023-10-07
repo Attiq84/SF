@@ -37,8 +37,24 @@
           "type": "faq",
           "settings": {
             "checkbox_expanded": false,
-            "title": "FAQ title",
-            "content": "<p>FAQ content<\/p>"
+            "title": "What are the delivery chargesfor orders from the online shop?",
+            "content": "<p>Shipping charges for order<br\/>     under pkr 3000\/- are _____ (200 charged for order<br\/>     under 2500 by irongear)<\/p><p>Free standard shipping for<br\/>     all orders exceeding PKR 3000\/- (iron gear offers<br\/>     free shipping for more than 2500 pkr)<\/p><p>We offer fast shipping<br\/>     available for your convenience which will require more charges. (how much?)<\/p><p>Please continue to see our<br\/>     policies as they are amended and updated after a period to give a better<br\/>     service and offer to our customers.<\/p>"
+          }
+        },
+        "92673391-ddcc-49c6-8d8d-db879580f3be": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "How long will delivery take?",
+            "content": "<p>(orion fitness delivers<br\/>same day for skt. iron gear:Rest of the Cities: Same day dispatch from Lahore<br\/>Office, next day delivery by courier service (cash on delivery availabe on<br\/>selected items, usually items less than 5KG).<\/p>"
+          }
+        },
+        "58300c7a-489e-4552-86ed-3f78e936a186": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "Do you have a store?",
+            "content": "<p>No.<br\/>In order to give you the best<br\/>possible prices, we remain an online brand.<\/p>"
           }
         }
       },
@@ -46,7 +62,9 @@
         "1f05ff7a-0d9f-4466-8996-6103938fd227",
         "34cde0b4-2606-4b52-94c9-412ef71938d9",
         "532de851-5cb4-49f6-a1bd-77651ca22395",
-        "568bd046-0cf0-469b-bc17-d3873d1c3fad"
+        "568bd046-0cf0-469b-bc17-d3873d1c3fad",
+        "92673391-ddcc-49c6-8d8d-db879580f3be",
+        "58300c7a-489e-4552-86ed-3f78e936a186"
       ],
       "settings": {
         "enable_rich_schema": true,
