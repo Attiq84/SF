@@ -5,9 +5,66 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "a300ba77-b63c-43ff-b22d-caecc18803a7": {
+      "type": "FAQS",
+      "blocks": {
+        "1f05ff7a-0d9f-4466-8996-6103938fd227": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": " How to order and what happens after the order has been placed?",
+            "content": "<p>If we are to cancel your order,<br\/>a detailed Whatsapp SMS\/email will be sent informing and explaining the reason.<br\/><\/p>"
+          }
+        },
+        "34cde0b4-2606-4b52-94c9-412ef71938d9": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "Can I cancel the order?",
+            "content": "<p>You can cancel the order if<br\/>your order status has not been updated to shipped.<\/p><p>Stealth fire reserves the right to cancel orders for<br\/>any reason.<\/p>"
+          }
+        },
+        "532de851-5cb4-49f6-a1bd-77651ca22395": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "Which payment methods are accepted in the online shop?",
+            "content": "<p>Stealth fire offers <\/p><p>The team requests for the internet banking feature to<br\/>be activated on your cards.<\/p>"
+          }
+        },
+        "568bd046-0cf0-469b-bc17-d3873d1c3fad": {
+          "type": "faq",
+          "settings": {
+            "checkbox_expanded": false,
+            "title": "FAQ title",
+            "content": "<p>FAQ content<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1f05ff7a-0d9f-4466-8996-6103938fd227",
+        "34cde0b4-2606-4b52-94c9-412ef71938d9",
+        "532de851-5cb4-49f6-a1bd-77651ca22395",
+        "568bd046-0cf0-469b-bc17-d3873d1c3fad"
+      ],
+      "settings": {
+        "enable_rich_schema": true,
+        "max_width": "64rem",
+        "margin_top": 1,
+        "margin_bottom": 1,
+        "background_color": "#ffffff",
+        "border_color": "#eeeeee",
+        "panel_color": "#fdfdfd",
+        "q_size_small": 1,
+        "q_size_large": 1.4,
+        "q_color": "",
+        "a_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a300ba77-b63c-43ff-b22d-caecc18803a7"
   ]
 }
