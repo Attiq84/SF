@@ -162,7 +162,6 @@
           "popup_seconds": 5,
           "popup_days": 30,
           "popup_title": "Sign up",
-          "popup_image": "shopify:\/\/shop_images\/Stealth_cata.jpg",
           "popup_text": "<p>Be the first to know about our new collections, exclusive promotions and more<\/p>",
           "close_text": "No thanks",
           "enable_newsletter": true,
