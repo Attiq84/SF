@@ -13,12 +13,8 @@
         "text": "",
         "show_phone": true,
         "narrow_column": true,
-        "cont": "Contact",
         "email": "Email:",
-        "ph_numb": "Phone Number:",
-        "wht_ap": "Whatsapp Number:",
-        "timming": "Timings:",
-        "Shipping_a": "Shipping Address:"
+        "ph_numb": "Phone Number:"
       }
     }
   },
