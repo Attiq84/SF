@@ -12,7 +12,9 @@
         "title": "Contact us",
         "text": "",
         "show_phone": true,
-        "narrow_column": true
+        "narrow_column": true,
+        "email": "Email:",
+        "ph_numb": "Phone Number:"
       }
     }
   },
