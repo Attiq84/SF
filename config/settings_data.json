@@ -163,11 +163,11 @@
           "popup_seconds": 5,
           "popup_days": 30,
           "popup_title": "Sign up",
-          "popup_image": "shopify:\/\/shop_images\/Asset_5.png",
+          "popup_image": "shopify:\/\/shop_images\/Sale_banner.jpg",
           "popup_text": "<p>Be the first to know about our new collections, exclusive promotions and more<\/p>",
-          "close_text": "No thanks",
+          "close_text": "",
           "enable_newsletter": true,
-          "button_label": "Optional button",
+          "button_label": "",
           "button_link": "",
           "enable_button": false
         }
