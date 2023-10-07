@@ -6,6 +6,25 @@
       "settings": {
       }
     },
+    "7be4d026-9ea1-4148-8558-3b4596a5e1e9": {
+      "type": "rich-text",
+      "blocks": {
+        "template--21110176907582__7be4d026-9ea1-4148-8558-3b4596a5e1e9-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQS"
+          }
+        }
+      },
+      "block_order": [
+        "template--21110176907582__7be4d026-9ea1-4148-8558-3b4596a5e1e9-heading-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "a300ba77-b63c-43ff-b22d-caecc18803a7": {
       "type": "FAQS",
       "blocks": {
@@ -83,6 +102,7 @@
   },
   "order": [
     "main",
+    "7be4d026-9ea1-4148-8558-3b4596a5e1e9",
     "a300ba77-b63c-43ff-b22d-caecc18803a7"
   ]
 }
