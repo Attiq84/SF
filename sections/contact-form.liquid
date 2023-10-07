@@ -59,6 +59,11 @@
     </div>
 
 <div class="new-cont">
+  {%- if section.settings.cont != blank -%}
+        <h3 class="section-heade_email">
+          {{ section.settings.cont }}
+        </h3>
+    {% endif %}
 {%- if section.settings.email != blank -%}
         <p class="section-heade_email">
           {{ section.settings.email }}
@@ -123,6 +128,12 @@
       },
       {
         "type": "text",
+        "id": "cont",
+        "label": "Heading",
+        "default": "Contact"
+      },
+      {
+        "type": "text",
         "id": "email",
         "label": "email",
         "default": "Email"
@@ -151,7 +162,6 @@
         "label": "Shipping Address",
         "default": "Shipping Address"
       }
-      
     ],
     "presets": [{
       "name": "Contact form"
