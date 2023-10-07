@@ -69,6 +69,21 @@
           {{ section.settings.ph_numb }}
         </p>
      {% endif %}
+     {%- if section.settings.wht_ap != blank -%}
+        <p class="section-heade_email">
+          {{ section.settings.wht_ap }}
+        </p>
+     {% endif %}
+     {%- if section.settings.timming != blank -%}
+        <p class="section-heade_email">
+          {{ section.settings.timming }}
+        </p>
+     {% endif %}
+     {%- if section.settings.Shipping_a != blank -%}
+        <p class="section-heade_email">
+          {{ section.settings.Shipping_a }}
+        </p>
+     {% endif %}
 
 
   
@@ -122,6 +137,24 @@
         "id": "ph_numb",
         "label": "Phone Number",
         "default": "Phone Number"
+      },
+      {
+        "type": "text",
+        "id": "wht_ap",
+        "label": "Whatsapp Number",
+        "default": "Whatsapp Number"
+      },
+      {
+        "type": "text",
+        "id": "timming",
+        "label": "Timings",
+        "default": "Timings"
+      },
+      {
+        "type": "text",
+        "id": "Shipping_a",
+        "label": "Shipping Address",
+        "default": "Shipping Address"
       }
       
     ],
