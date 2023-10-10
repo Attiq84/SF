@@ -16,7 +16,7 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "size_chart": "",
+            "size_chart": "contact",
             "variant_labels": true,
             "picker_type": "button",
             "color_swatches": false
@@ -52,7 +52,7 @@
           "type": "tab",
           "settings": {
             "title": "Shipping Policy",
-            "content": "<ul><li>We ship all over Pakistan.<\/li><li>Free Shipping on orders which are above <strong>3000<\/strong>.<\/li><li><strong>200<\/strong>charged on orders below Rs.3000.<\/li><li>If your order is placed before 5pm, your order will shipped the same day through our Registered Courier Services. (Should we increase time?)<\/li><li>Orders received after <strong>5:00 pm <\/strong>will be dispatched the next day.<\/li><li>Orders received on Sundays and on Pakistan's National Holidays will be processed and shipped on the next working day.<\/li><li>Delivery time is between <strong>_________<\/strong>(No delivery on Sundays).<\/li><li>Delivery can take up to 7 working days (by iron gear) when there is a huge influx of orders during sale season or busy shopping season.<\/li><li>In case of bad weather or political instability in the country, the delivery could be delayed.<\/li><li>All deliveries must be signed for upon receipt so we cannot deliver to PO boxes.<\/li><li>In the case of customer’s absence upon delivery, Stealth fire’s representative will reach for suitable time of delivery and other necessary instructions required by you to deliver the parcel successfully. The parcel can be dropped at nebighours or any other nearby place only upon receiving the payment.<\/li><li>If you have any questions you can contact us at <strong>______________<\/strong><\/li><\/ul>",
+            "content": "<ul><li>We ship all over Pakistan.<\/li><li>Free Shipping on orders which are above <strong>3000<\/strong>.<\/li><li><strong>200 <\/strong>charged on orders below Rs.3000.<\/li><li>If your order is placed before 5pm, your order will shipped the same day through our Registered Courier Services. <\/li><li>Orders received after <strong>5:00 pm <\/strong>will be dispatched the next day.<\/li><li>Orders received on Sundays and on Pakistan's National Holidays will be processed and shipped on the next working day.<\/li><li>Delivery time is between 4-6 days. (No delivery on Sundays).<\/li><li>Delivery can take up to 7 working days when there is a huge influx of orders during sale season or busy shopping season.<\/li><li>In case of bad weather or political instability in the country, the delivery could be delayed.<\/li><li>All deliveries must be signed for upon receipt so we cannot deliver to PO boxes.<\/li><li>In the case of customer’s absence upon delivery, Stealth fire’s representative will reach for suitable time of delivery and other necessary instructions required by you to deliver the parcel successfully. The parcel can be dropped at nebighours or any other nearby place only upon receiving the payment.<\/li><li>If you have any questions you can contact us at <strong>stealthk4u@gmail.com<\/strong><\/li><\/ul>",
             "page": ""
           }
         },
