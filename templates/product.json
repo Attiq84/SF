@@ -92,6 +92,23 @@
         "max_width": true
       }
     },
+    "1697202742ec24149c": {
+      "type": "apps",
+      "blocks": {
+        "3a3552a8-340d-44b7-bee3-edacc32f3917": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "3a3552a8-340d-44b7-bee3-edacc32f3917"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -116,6 +133,7 @@
   "order": [
     "main",
     "sub",
+    "1697202742ec24149c",
     "product-recommendations",
     "recently-viewed",
     "collection-return"
