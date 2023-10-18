@@ -8,6 +8,11 @@
           "settings": {
           }
         },
+        "35bc0b9f-62fd-4f12-a354-517647891c6f": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {
@@ -64,6 +69,7 @@
       },
       "block_order": [
         "price",
+        "35bc0b9f-62fd-4f12-a354-517647891c6f",
         "separator",
         "variant_picker",
         "ba0d5b40-314d-4f6e-9061-256becd5a50b",
@@ -85,8 +91,26 @@
         "product_video_style": "muted"
       }
     },
+    "1697663527b7dde746": {
+      "type": "apps",
+      "blocks": {
+        "8cdea2c8-3fb2-4153-a2b7-bd50e0cef66f": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "8cdea2c8-3fb2-4153-a2b7-bd50e0cef66f"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "sub": {
       "type": "product-full-width",
+      "disabled": true,
       "settings": {
         "max_width": true
       }
@@ -107,12 +131,14 @@
     },
     "collection-return": {
       "type": "collection-return",
+      "disabled": true,
       "settings": {
       }
     }
   },
   "order": [
     "main",
+    "1697663527b7dde746",
     "sub",
     "product-recommendations",
     "recently-viewed",
