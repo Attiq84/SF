@@ -21,10 +21,10 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "size_chart": "contact",
+            "size_chart": "size-chart",
             "variant_labels": true,
             "picker_type": "button",
-            "color_swatches": false
+            "color_swatches": true
           }
         },
         "description": {
