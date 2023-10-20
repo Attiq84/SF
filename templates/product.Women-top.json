@@ -21,7 +21,7 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "size_chart": "women-bottom",
+            "size_chart": "",
             "variant_labels": true,
             "picker_type": "button",
             "color_swatches": true
