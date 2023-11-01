@@ -234,6 +234,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "8698817763995941236": {
+        "type": "shopify:\/\/apps\/fordeer-sales-popup-pop\/blocks\/popup\/10ad4a26-87fb-43fd-8aa9-dd53e003ed28",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
