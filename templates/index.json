@@ -27,12 +27,13 @@
           "type": "collection",
           "settings": {
             "collection": "stealth",
-            "title": "STEALTH",
+            "title": "Winter collection 23",
             "focal_point": "center center"
           }
         },
         "template--21110177562942__419364e5-c29d-43e8-b102-6e6c0b0471f8-collection-2": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": "flre-cata",
             "title": "FIRE",
@@ -68,7 +69,7 @@
         "0d78e6f5-9f68-4319-8e53-88a1ebafbe2b": {
           "type": "timer",
           "settings": {
-            "countdown_date": "Oct 31, 2023",
+            "countdown_date": "Nov 10, 2023",
             "countdown_text": ""
           }
         },
