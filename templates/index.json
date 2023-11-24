@@ -57,31 +57,17 @@
     "4f9e0a21-5c28-438a-93fd-ffbcb45a3a74": {
       "type": "promo-grid",
       "blocks": {
-        "template--21110177562942__4f9e0a21-5c28-438a-93fd-ffbcb45a3a74-advanced-1": {
-          "type": "advanced",
+        "66234e99-accf-46b6-82be-0ae725221e7d": {
+          "type": "image",
           "settings": {
-            "subheading": "",
-            "heading": "WINTER COLLECTION 23",
-            "textarea": "",
-            "cta_text1": "",
-            "cta_link1": "shopify:\/\/collections\/stealth",
-            "cta_text2": "",
-            "cta_link2": "",
-            "image": "shopify:\/\/shop_images\/Stealth_cata.jpg",
-            "video_url": "",
-            "width": "50",
-            "height": 660,
-            "text_size": 75,
-            "text_align": "vertical-bottom horizontal-center",
-            "focal_point": "top",
-            "color_accent": "rgba(0,0,0,0)",
-            "boxed": false,
-            "framed": true
+            "image": "shopify:\/\/shop_images\/24nov2023stealthfire_post_sale_copy.jpg",
+            "link": "",
+            "width": "50"
           }
         }
       },
       "block_order": [
-        "template--21110177562942__4f9e0a21-5c28-438a-93fd-ffbcb45a3a74-advanced-1"
+        "66234e99-accf-46b6-82be-0ae725221e7d"
       ],
       "settings": {
         "full_width": false,
