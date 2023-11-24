@@ -108,7 +108,7 @@
       ],
       "settings": {
         "full_width": true,
-        "section_height_desktop": 260,
+        "section_height_desktop": 480,
         "section_height_mobile": 480,
         "desktop_image": "shopify:\/\/shop_images\/Sale_banner.jpg",
         "blur_amount": 3,
