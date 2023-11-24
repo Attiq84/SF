@@ -60,9 +60,9 @@
         "66234e99-accf-46b6-82be-0ae725221e7d": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/24nov2023stealthfire_post_sale_copy.jpg",
+            "image": "shopify:\/\/shop_images\/website_banners.jpg",
             "link": "",
-            "width": "50"
+            "width": "100"
           }
         }
       },
@@ -106,7 +106,7 @@
         "905d291a-935e-4bbd-8b02-b4cbd53a1716"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "section_height_desktop": 480,
         "section_height_mobile": 480,
         "desktop_image": "shopify:\/\/shop_images\/Sale_banner.jpg",
