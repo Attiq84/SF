@@ -108,9 +108,9 @@
       ],
       "settings": {
         "full_width": true,
-        "section_height_desktop": 480,
+        "section_height_desktop": 260,
         "section_height_mobile": 480,
-        "desktop_image": "shopify:\/\/shop_images\/website_banners.jpg",
+        "desktop_image": "shopify:\/\/shop_images\/Sale_banner.jpg",
         "blur_amount": 3,
         "overlay_color": "#000000",
         "border_radius": 0,
