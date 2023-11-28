@@ -21,7 +21,7 @@
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
-            "size_chart": "size-products",
+            "size_chart": "",
             "variant_labels": true,
             "picker_type": "button",
             "color_swatches": true
@@ -38,14 +38,6 @@
           "settings": {
           }
         },
-        "d82ff048-6720-4e44-84cd-d863b297de81": {
-          "type": "tab",
-          "settings": {
-            "title": "Size Chart",
-            "content": "<p><a href=\"\/pages\/size-products\" title=\"size products\">Size Chart<\/a><\/p>",
-            "page": ""
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -56,7 +48,7 @@
         "c4e306c4-6fd6-47f9-b197-601cd1902d7b": {
           "type": "tab",
           "settings": {
-            "title": "size product",
+            "title": "Details",
             "content": "",
             "page": ""
           }
@@ -82,7 +74,6 @@
         "variant_picker",
         "description",
         "cc0ef54e-b3b3-4f21-9e5e-b37c69ee2b4c",
-        "d82ff048-6720-4e44-84cd-d863b297de81",
         "buy_buttons",
         "c4e306c4-6fd6-47f9-b197-601cd1902d7b",
         "1aa04c38-5d70-46c8-a568-ad8830fea637",
