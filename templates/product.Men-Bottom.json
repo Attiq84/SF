@@ -49,8 +49,8 @@
           "type": "tab",
           "settings": {
             "title": "Details",
-            "content": "<p>{{ product.metafields.custom.details | metafield_tag }}<\/p>",
-            "page": ""
+            "content": "",
+            "page": "size-guide"
           }
         },
         "1aa04c38-5d70-46c8-a568-ad8830fea637": {
