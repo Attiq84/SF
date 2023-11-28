@@ -56,8 +56,8 @@
         "c4e306c4-6fd6-47f9-b197-601cd1902d7b": {
           "type": "tab",
           "settings": {
-            "title": "Details",
-            "content": "<p><a href=\"\/pages\/size-products\" title=\"size products\">size product<\/a><\/p>",
+            "title": "size product",
+            "content": "",
             "page": ""
           }
         },
