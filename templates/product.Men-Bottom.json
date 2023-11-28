@@ -49,8 +49,8 @@
           "type": "tab",
           "settings": {
             "title": "Details",
-            "content": "",
-            "page": "size-guide"
+            "content": "<p><a href=\"\/pages\/size-products\" title=\"size products\">size product<\/a><\/p>",
+            "page": ""
           }
         },
         "1aa04c38-5d70-46c8-a568-ad8830fea637": {
