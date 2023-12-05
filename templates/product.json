@@ -28,11 +28,6 @@
             "is_tab": false
           }
         },
-        "cc0ef54e-b3b3-4f21-9e5e-b37c69ee2b4c": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -51,7 +46,6 @@
         "separator",
         "variant_picker",
         "description",
-        "cc0ef54e-b3b3-4f21-9e5e-b37c69ee2b4c",
         "buy_buttons",
         "share"
       ],
