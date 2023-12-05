@@ -20,10 +20,37 @@
         "link_text": "SHOP NOW"
       }
     },
+    "93cb22ce-5218-4af8-b5b3-0f86d9347ed4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "OUR BRAND"
+          }
+        },
+        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-text-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Elevate your style with [Brand Name], where fashion meets comfort and sophistication. Our curated collection seamlessly blends quality craftsmanship with contemporary design, ensuring you make a statement with every outfit. Embrace individuality and express your unique taste through our diverse range of trendy and timeless pieces. Discover the perfect fusion of comfort and style – redefine your wardrobe with [Brand Name]<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-heading-1",
+        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-text-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "e6c3c862-ed90-4871-900c-c1a0436cb101": {
       "type": "featured-collection",
       "settings": {
-        "title": "Best Selling",
+        "title": "",
         "home_featured_products": "product",
         "per_row": 4,
         "rows": 2,
@@ -61,33 +88,6 @@
         "divider": false,
         "per_row": 2,
         "enable_gutter": true
-      }
-    },
-    "93cb22ce-5218-4af8-b5b3-0f86d9347ed4": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-heading-1": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-text-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-heading-1",
-        "template--16302790639756__93cb22ce-5218-4af8-b5b3-0f86d9347ed4-text-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
       }
     },
     "b0257b10-2952-4fc8-9d16-98a543dddecb": {
@@ -145,9 +145,9 @@
   "order": [
     "e7ab985b-c9bc-48a2-9ba1-e369677045ab",
     "4200949a-073c-44fe-8cf0-5dc624092ed5",
+    "93cb22ce-5218-4af8-b5b3-0f86d9347ed4",
     "e6c3c862-ed90-4871-900c-c1a0436cb101",
     "7a2e418b-1f24-4ace-b0cf-0e235879a640",
-    "93cb22ce-5218-4af8-b5b3-0f86d9347ed4",
     "b0257b10-2952-4fc8-9d16-98a543dddecb",
     "758f2b53-fa95-4126-8357-f3616d9b6e8a"
   ]
