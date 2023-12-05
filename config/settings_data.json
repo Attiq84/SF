@@ -96,7 +96,6 @@
           "9096d1a1-80d2-4a4f-b09b-628377956b01": {
             "type": "logo",
             "settings": {
-              "logo": "shopify:\/\/shop_images\/Asset_2_28832f39-0f7b-45ae-805d-0f9af1a51773.png",
               "desktop_logo_width": 120,
               "mobile_logo_width": 70
             }
@@ -159,7 +158,7 @@
       "newsletter-popup": {
         "type": "newsletter-popup",
         "settings": {
-          "mode": "enabled",
+          "mode": "disabled",
           "popup_seconds": 5,
           "popup_days": 30,
           "popup_title": "Sign up",
@@ -227,21 +226,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "14060646107696862457": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "8698817763995941236": {
-        "type": "shopify:\/\/apps\/fordeer-sales-popup-pop\/blocks\/popup\/10ad4a26-87fb-43fd-8aa9-dd53e003ed28",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Modern": {
