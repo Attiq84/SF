@@ -32,39 +32,25 @@
         "divider": false
       }
     },
-    "b6f4ea83-ee1e-4c7f-a171-6f8d0f0236d5": {
-      "type": "slideshow",
+    "758f2b53-fa95-4126-8357-f3616d9b6e8a": {
+      "type": "advanced-content",
       "blocks": {
-        "template--16302790639756__b6f4ea83-ee1e-4c7f-a171-6f8d0f0236d5-image-1": {
+        "template--16302790639756__758f2b53-fa95-4126-8357-f3616d9b6e8a-image-1": {
           "type": "image",
           "settings": {
-            "top_subheading": "",
-            "title": "Brand",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify:\/\/collections\/all",
-            "link_text": "Shop Now",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
             "image": "shopify:\/\/shop_images\/Sale_banner.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/EMRG17434.jpg",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
           }
         }
       },
       "block_order": [
-        "template--16302790639756__b6f4ea83-ee1e-4c7f-a171-6f8d0f0236d5-image-1"
+        "template--16302790639756__758f2b53-fa95-4126-8357-f3616d9b6e8a-image-1"
       ],
       "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5
+        "full_width": false,
+        "space_around": true
       }
     }
   },
@@ -72,6 +58,6 @@
     "e7ab985b-c9bc-48a2-9ba1-e369677045ab",
     "4200949a-073c-44fe-8cf0-5dc624092ed5",
     "e6c3c862-ed90-4871-900c-c1a0436cb101",
-    "b6f4ea83-ee1e-4c7f-a171-6f8d0f0236d5"
+    "758f2b53-fa95-4126-8357-f3616d9b6e8a"
   ]
 }
