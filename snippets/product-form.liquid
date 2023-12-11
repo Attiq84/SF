@@ -1,4 +1,4 @@
-{% comment %} {%- form 'product', product, id: form_id, class: 'product-single__form' -%}
+{%- form 'product', product, id: form_id, class: 'product-single__form' -%}
 
   {%- liquid
     assign enable_dynamic_buttons = false
@@ -68,8 +68,8 @@
       {{ current_variant | json }}
     </textarea>
   {%- endif -%}
-{%- endform -%} {% endcomment %}
-<script src="https://www.paypal.com/sdk/js?client-id=AV2mcRkIx0vT9i2uF9B9oQLwHW90Qh2QuE6uaGNjfm88WQ9I6u5bieXhvMmLOKFWpIwRok10Ox_Tqw9l&currency=USD"></script>
+{%- endform -%} 
+<!-- <script src="https://www.paypal.com/sdk/js?client-id=AV2mcRkIx0vT9i2uF9B9oQLwHW90Qh2QuE6uaGNjfm88WQ9I6u5bieXhvMmLOKFWpIwRok10Ox_Tqw9l&currency=USD"></script>
 <div id="paypal-button-container"></div>
  <script>
          // Render the PayPal button into #paypal-button-container
@@ -96,3 +96,4 @@
             }
         }).render('#paypal-button-container');
      </script>
+ -->
